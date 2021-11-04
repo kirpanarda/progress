@@ -1,0 +1,16 @@
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\bin\Debug\netcoreapp3.1\PROGRESS.exe
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\bin\Debug\netcoreapp3.1\PROGRESS.deps.json
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\bin\Debug\netcoreapp3.1\PROGRESS.runtimeconfig.json
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\bin\Debug\netcoreapp3.1\PROGRESS.runtimeconfig.dev.json
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\bin\Debug\netcoreapp3.1\PROGRESS.dll
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\bin\Debug\netcoreapp3.1\PROGRESS.pdb
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\obj\Debug\netcoreapp3.1\PROGRESS.csproj.AssemblyReference.cache
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\obj\Debug\netcoreapp3.1\PROGRESS.Form1.resources
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\obj\Debug\netcoreapp3.1\PROGRESS.csproj.GenerateResource.cache
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\obj\Debug\netcoreapp3.1\PROGRESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\obj\Debug\netcoreapp3.1\PROGRESS.AssemblyInfoInputs.cache
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\obj\Debug\netcoreapp3.1\PROGRESS.AssemblyInfo.cs
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\obj\Debug\netcoreapp3.1\PROGRESS.csproj.CoreCompileInputs.cache
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\obj\Debug\netcoreapp3.1\PROGRESS.dll
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\obj\Debug\netcoreapp3.1\PROGRESS.pdb
+C:\Users\ARDA KIRPAN\Desktop\PROGRESS\PROGRESS\obj\Debug\netcoreapp3.1\PROGRESS.genruntimeconfig.cache
